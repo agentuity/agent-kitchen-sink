@@ -1,0 +1,11 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Agentuity examples in Python"
+requires-python = ">=3.10, <3.13"
+dependencies = [
+    "agentuity>=0.0.85",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.24",
+    "langchain-openai>=0.3.18",
+]
