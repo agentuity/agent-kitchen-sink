@@ -6,7 +6,7 @@
 # ------------------------------------------------
 
 # The version semver range required to run this project
-version: '>=0.0.136'
+version: ">=0.0.136"
 # The ID of the project which is automatically generated
 project_id: proj_ad91da541f229cf7b7287dfb7a1981fb
 # The name of the project which is editable
@@ -43,7 +43,7 @@ deployment:
     # The CPU requirements
     cpu: 500M
     # The disk size requirements
-    disk: 100Mi
+    disk: 200Mi
 # You should not need to change these value
 bundler:
   enabled: true
@@ -53,7 +53,7 @@ bundler:
   agents:
     dir: agents
   ignore:
-    - '**/__pycache__/**'
+    - "**/__pycache__/**"
 # The agents that are part of this project
 agents:
   - # The ID of the Agent which is automatically generated
