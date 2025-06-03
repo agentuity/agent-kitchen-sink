@@ -6,7 +6,7 @@
 # ------------------------------------------------
 
 # The version semver range required to run this project
-version: '>=0.0.136'
+version: ">=0.0.136"
 # The ID of the project which is automatically generated
 project_id: proj_58271497a969db02501531816e08fe04
 # The name of the project which is editable
@@ -47,7 +47,7 @@ deployment:
     # The CPU requirements
     cpu: 500M
     # The disk size requirements
-    disk: 100Mi
+    disk: 200Mi
 # You should not need to change these value
 bundler:
   enabled: true
