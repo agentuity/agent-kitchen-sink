@@ -2,9 +2,11 @@
     <img src="https://raw.githubusercontent.com/agentuity/sdk-js/main/.github/Agentuity.png" alt="Agentuity" width="100"/> <br/>
     <strong>Build Agents, Not Infrastructure</strong> <br/>
 <br />
-</div>
 
 [![Deploy with Agentuity](https://app.agentuity.com/img/deploy.svg)](https://app.agentuity.com/deploy)
+
+</div>
+
 <br />
 
 # Agent Kitchen Sink
