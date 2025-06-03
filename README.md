@@ -3,6 +3,8 @@
     <strong>Build Agents, Not Infrastructure</strong> <br/>
 <br />
 </div>
+
+[![Deploy with Agentuity](https://app.agentuity.com/img/deploy.svg)](https://app.agentuity.com/deploy)
 <br />
 
 # Agent Kitchen Sink
